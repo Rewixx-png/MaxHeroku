@@ -38,7 +38,7 @@
 
 ### 1. Получение дистрибутива
 ```bash
-git clone https://github.com/coddrago/MaxHeroku
+git clone https://github.com/Rewixx-png/MaxHeroku
 cd MaxHeroku
 ```
 
